@@ -10,5 +10,5 @@ Teen Tuesday will feature free ice cream at the Shepherd Community Library on Tu
 
 Below is a list of upcoming events:
 
-![image alt text]({{ site.url }}/public/1fB7p0YRgVmXzOMcwfMhQ_img_0.png)
+![image alt text](/public/1fB7p0YRgVmXzOMcwfMhQ_img_0.png)
 
